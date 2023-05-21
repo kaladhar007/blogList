@@ -1,0 +1,13 @@
+/* Write your CSS code here */
+.blog-item-page {
+  margin: 5px;
+}
+.time_title {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: space-between;
+}
+li {
+  list-style: none;
+}
